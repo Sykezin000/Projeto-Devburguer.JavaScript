@@ -27,3 +27,7 @@ O objetivo deste projeto é utilizar essas funções de forma eficaz para manipu
 <br>
   <br>
 Dominar as funções forEach, map, reduce e filter é essencial para qualquer desenvolvedor JavaScript que deseja escrever código moderno e eficiente. Este projeto fornece a base teórica e prática necessária para aproveitar ao máximo essas ferramentas poderosas.</h2>
+<br>
+<br>
+
+<a href="https://catalogodevburguer.netlify.app">Clique aqui para visitar o site de exemplo</a>
