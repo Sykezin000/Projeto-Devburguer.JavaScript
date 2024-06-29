@@ -3,7 +3,11 @@
 <br>
 <h2>Este projeto é uma aplicação em JavaScript criada com as funções forEach, map, reduce e filter para processar e manipular dados de maneira eficiente. Essas funções permitem realizar operações complexas de maneira simples e clara, desde o cálculo de vendas até a gestão de inventário.
 <br>
-  <br>
+ <br>
+
+<img >
+
+  
 *Funcionalidades:
 <br>
   <br>
@@ -30,4 +34,4 @@ Dominar as funções forEach, map, reduce e filter é essencial para qualquer de
 <br>
 <br>
 
-<a href="https://catalogodevburguer.netlify.app">Clique aqui para visitar o site de exemplo</a>
+<a href="https://catalogodevburguer.netlify.app">Clique aqui para visitar o site </a>
